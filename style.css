@@ -220,3 +220,59 @@ main {
   margin-top: 50px;
   text-align: center;
 }
+
+/* footer start  */
+
+.footer {
+  background: #fff8f3;
+}
+
+.contact {
+  margin: 130px 200px 0;
+  display: flex;
+  gap: 120px;
+}
+
+.contact-title {
+  font-size: 35px;
+  font-weight: 700;
+  margin: 50px 0;
+}
+
+.contact-description {
+  color: #474747;
+  font-weight: 400;
+}
+
+.media-icons {
+  margin-top: 30px;
+  color: #fd6e0a;
+}
+
+.media-icons i {
+  margin-right: 30px;
+  font-size: 25px;
+}
+
+.input-info {
+  display: block;
+  width: 450px;
+  height: 65px;
+  border-radius: 5px;
+  border: 0;
+  margin-bottom: 25px;
+  padding: 0 15px;
+}
+
+.input-message {
+  display: block;
+  width: 450px;
+  height: 180px;
+  border-radius: 5px;
+  border: 0;
+  margin-bottom: 25px;
+  padding: 0 15px;
+}
+.footer-btn {
+  margin-bottom: 130px;
+}
